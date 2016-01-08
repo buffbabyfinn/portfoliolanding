@@ -4,3 +4,6 @@ body{
 .jumbotron{
   text-align: center;
 }
+.navbar-brand{
+  font-size: 40px
+}
