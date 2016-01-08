@@ -26,7 +26,7 @@ Designed and built by [Megan Fayer], with plenty of help from [Bootstrap] and th
 
 Contact the author at: [mefayer@gmail.com]
 
-[mefayer@gmail.com]: <https://mail.google.com/mail/u/0/#compose>
+[mefayer@gmail.com]: <mailto:mefayer@gmail.com>
 [this link]: <https://buffbabyfinn.github.io>
 [Megan Fayer]: <https://www.linkedin.com/profile/view?authType=NAME_SEARCH&id=ACgAAA0N2q4B69id2wYwJW1wVb1eXceYY0LlBgw&authToken=aS-o>
 [Bootstrap]: <http://getbootstrap.com/>
