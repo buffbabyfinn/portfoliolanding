@@ -1,6 +1,6 @@
 body{
   padding: 0px;
-  padding-bottom: 50px;
+  padding-bottom: 75px;
   background-image: url(http://p1.pichost.me/i/34/1572159.jpg);
   background-size: 100%;
   background-repeat: repeat-y;
@@ -52,4 +52,13 @@ h1{
 .row ul li{
   font-style: italic;
   color: #D1EEEE;
+}
+.row ol li{
+  color: #D1EEEE;
+  font-family: monospace;
+  font-size: 16px;
+}
+.games{
+  color: #9932CD;
+  font-family: fantasy;
 }
